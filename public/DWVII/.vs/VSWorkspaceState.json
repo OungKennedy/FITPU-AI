@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\decoders",
+    "\\decoders\\pdfjs",
+    "\\src",
+    "\\src\\app",
+    "\\src\\gui",
+    "\\tests",
+    "\\tests\\dicom",
+    "\\tests\\html",
+    "\\tests\\image"
+  ],
+  "SelectedNode": "\\src\\app\\drawController.js",
+  "PreviewInSolutionExplorer": true
+}

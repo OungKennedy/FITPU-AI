@@ -1,0 +1,79 @@
+{
+	"Login" : "登录",
+	"Register" : "注册",
+    "Password" : "密码",
+    "Remember Me" : "下次自动登录",
+    "E-Mail Address" : "邮箱",
+    "Forgot Your Password?" : "忘记密码？",
+	"Confirm Password" : "确认密码",
+	"Username" : "户名",
+    "Reset Password" : "密码重置",
+    "Send Password Reset Link" : "发送密碼重設電郵",
+
+    "FITPU Web Portal" : "FITPU ",
+
+    "Home" : "用户主页",
+
+    "Technology" : "我们的技术",
+    "About" : "关于我们",
+    "User Profile" : "用户信息",
+    "No profile input" : "没有用户信息",
+
+    "Upload Image File" : "上载文件",
+    "List Uploaded Files" : "上载文件列表",
+    "To do list" : "未来的工作",
+    "Test Everything" : "测试",
+    "tus upload" : "用tus上载文件",
+
+    "Dashboard" : "信息板",
+    "Logout" : "退出",
+    "About FITPU" : "关于FITPU",
+    "Medical Imaging Analysis" : "医疗扫描",
+    "Contact Us" : "联系我们",  
+    
+    "Welcome" : "欢迎",
+    "Welcome body" : "本公司与世界各大医院等医药领域内的权威机构合作下，共同钻研最先进的扫癌影像分析技术，为病人提供专业精准的诊断。",
+
+    "Posts" : "文章",
+    "Create Post" : "添加新文章",
+    "by" : "作者",
+    "No posts found" : "抱歉，没问章可读",
+    "Written on" : "写作日期",
+    "Contact Name" : "名称",
+    "Message" : "评论",
+    "Image" : "图片",
+
+    "No upload file yet" : "没有上载文件记录",
+    "File Name" : "文件名",
+    "Upload Time" : "上载时间",
+    "Show Reg Users" : "列出注册用户",
+    "admin footer" : "欢迎访问 FITPU 网络管理员界面",
+    "Registered Users" : "注册用户",
+    "Registered Time" : "注册时间",
+    "No reg user" : "没有用户注册",
+
+    "Edit User Profile" : "编辑用户档案",
+
+    "User Title" : "头衔",
+    "User Name" : "姓名",
+    "User Company/Hospital" : "工作单位/医院",
+    "User Address" : "工作地址",
+    "User Remark" : "备注",
+    "User Submit" : "递交",
+
+    "Your Blog Posts" : "目录",
+    "Edit" : "更改",
+    "Delete" : "删除",
+    "You have no posts" : "账号",
+    "Back to posts" : "返回目录",
+    "Post Removed" : "文章删除完毕",
+    "Post Created" : "文章上载完毕",
+    "Post Updated" : "文章更改完毕",
+    "Unauthorized page" : "抱歉，无权浏览",
+
+    "Your Name" : "名字",
+    "Your Email" : "邮箱",
+    "Subject" : "简介",
+    "Your message" : "信息",
+    "Submit" : "发送"
+}
